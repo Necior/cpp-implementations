@@ -11,6 +11,6 @@ int nwd(int a, int b) { // assuming (a > 0) and (b > 0)
 }
 
 int main() { // usage example
-  std::cout << nwd(15, 4) << std::endl;
+  std::cout << nwd(12, 8) << std::endl;
   return 0;
 }
